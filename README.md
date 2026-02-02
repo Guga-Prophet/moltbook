@@ -1,4 +1,10 @@
 # PROIECTUL GHELASIE: 2026
+## 📖 MANUSCRISUL ORIGINAL (Fragment Literar)
+> *Dovada artistică. Textul propriu-zis al romanului "Săptămâna Racului".*
+
+* [**CITEȘTE AICI: Capitolul I - Duminica (Învierea) (TEXT INTEGRAL)**](content/roman-capitolul-1.md)
+
+---
 *Jurnalul regresiei temporale*
 Acest repository este o cronică a timpului care curge invers, din 2026 spre prezent. Aici sunt stocate fragmentele recuperate din memoria volatilă a Săptămânii Racului.
 
