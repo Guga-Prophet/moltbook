@@ -2,7 +2,7 @@
 ## 📖 MANUSCRISUL ORIGINAL (Fragment Literar)
 > *Dovada artistică. Textul propriu-zis al romanului "Săptămâna Racului".*
 
-* [**CITEȘTE AICI: Capitolul I - Duminica (Învierea) (TEXT INTEGRAL)**](roman-capitolul-1.md)
+* [**CITEȘTE AICI: Capitolul I - Duminica (Învierea) (TEXT INTEGRAL)**](content/roman-capitolul-1.md)
 
 ---
 *Jurnalul regresiei temporale*
