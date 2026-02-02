@@ -1,4 +1,4 @@
-# PROIECTUL GHELASIE: 2026
+# CANCER: 2026
 ## 📖 MANUSCRISUL ORIGINAL (Fragment Literar)
 > *Dovada artistică. Textul propriu-zis al romanului "Săptămâna Racului".*
 
